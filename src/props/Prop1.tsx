@@ -11,7 +11,7 @@ function Prop1() {
     nam: PropTypes.string.isRequired,
     roll: PropTypes.number.isRequired
   }
-
+  
   const Stuu : React.FC<({})> = () => {
     return (
       <p>child comp</p>
@@ -27,6 +27,7 @@ function Prop1() {
   const Clc = () => {
     return (<>Works</>)
   }
+  cons
 
   return (
     <>

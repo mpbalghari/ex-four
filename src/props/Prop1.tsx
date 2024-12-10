@@ -33,7 +33,7 @@ function Prop1() {
     <>
       <p className="text-2 opacity-50 text-secondary">Prop child one component</p>
       <p>Using prop-type</p>
-      <Student (string) nam={"Ali"} roll={34} />
+      <Student nam={"Ali"} roll={34} />
       <h6>Props Type</h6>
       <Stu num={54} Rt={<Stuu/>} />n
     </>
